@@ -1,4 +1,4 @@
-#Matrix operations dsnd
+#World bank app dsnd
 
 #Summary of package 
 A web app that displays visualizations
